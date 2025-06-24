@@ -2,9 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  images: { unoptimized: true },
-  basePath: '/clickang.github.io',
-  assetPrefix: '/clickang.github.io/',
+  images: { unoptimized: true }
 };
 
 export default nextConfig;
