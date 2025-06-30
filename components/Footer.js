@@ -1,8 +1,7 @@
 export default function Footer() {
-    return (
-      <footer>
-        <p>© 2025 clickang. All rights reserved.</p>
-      </footer>
-    );
-  }
-  
+  return (
+    <footer className="bg-gray-800 text-white p-4 text-center mt-8">
+      <p>© 2025 Clickang. All rights reserved.</p>
+    </footer>
+  );
+}
